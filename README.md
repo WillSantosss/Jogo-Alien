@@ -6,7 +6,7 @@ Um pequeno jogo web, variedades de inimigos e explos√µes no meio do universo ir√
 
 ### Linguagens utilizadas
 
-* HTML5
+* HTML
 * CSS
 * JavaScript
 
